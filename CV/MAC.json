@@ -1,0 +1,145 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adrián",
+      "surnames": "Pisabarro García",
+      "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer, searching to be a Font-Developer 🥹 on the future. JavaScript Lover ❤️ and Student 👨🏻‍🎓.",
+      "description": "I really love helping other people, I collaborate in some associations.\nIs usually said that mentoring is the best way to put them into practice all the knowledge, and I usually help to my workmates and students with their problems.\nI'm a person that wants a great team to work. Nowadays, I’m dedicating time out of my work to learn new languages and making challenges myself. I bee keen on making interesting things with JavaScript and learn every day on my job.\nDo you want to know more about me?",
+      "avatar": {
+        "alt": "IMG_1249 2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/db2d3f44-506f-4577-b8db-6082d9e7030d_img_1249-2.jpg"
+      },
+      "location": {
+        "notes": "Vitoria-Gasteiz 💚"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://adrianpisabarro.com/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/adrianpisabarrogarcia"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/adriantxupisi"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/adrian-pisabarro/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favourite learning channels are:",
+        "fact": "- https://www.twitch.tv/midudev\n- https://www.youtube.com/c/MouredevApps\n- https://www.youtube.com/c/CodelyTv"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Basque"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/adrian-pisabarro/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
