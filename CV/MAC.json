@@ -9,7 +9,7 @@
       "name": "Adrián",
       "surnames": "Pisabarro García",
       "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer, searching to be a Font-Developer 🥹 on the future. JavaScript Lover ❤️ and Student 👨🏻‍🎓.",
-      "description": "I really love helping other people, I collaborate in some associations.\nIs usually said that mentoring is the best way to put them into practice all the knowledge, and I usually help to my workmates and students with their problems.\nI'm a person that wants a great team to work. Nowadays, I’m dedicating time out of my work to learn new languages and making challenges myself. I bee keen on making interesting things with JavaScript and learn every day on my job.\nDo you want to know more about me?",
+      "description": "I really love helping other people, I collaborate in some associations.\nIs usually said that mentoring is the best way to put them into practice all the knowledge, and I usually help to my workmates and students with their code problems.\nI'm a person that wants a great team to work. Nowadays, I’m dedicating time out of my work to learn new languages and making challenges myself. I bee keen on making interesting things with JavaScript and learn every day on my job.\nDo you want to know more about me?",
       "avatar": {
         "alt": "IMG_1249 2.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/db2d3f44-506f-4577-b8db-6082d9e7030d_img_1249-2.jpg"
@@ -122,7 +122,19 @@
           "type": "technology"
         },
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         },
         {
