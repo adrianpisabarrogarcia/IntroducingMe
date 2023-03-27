@@ -60,13 +60,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PHP",
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -78,7 +78,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "AngularJS",
           "type": "technology"
         }
       },
@@ -90,19 +90,19 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
+          "name": "JavaScript",
           "type": "technology"
         }
       }
@@ -204,5 +204,29 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ]
   }
 }
