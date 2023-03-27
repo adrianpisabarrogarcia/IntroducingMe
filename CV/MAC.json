@@ -124,7 +124,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AngularJS",
+          "name": "CSS",
           "type": "technology"
         },
         {
@@ -132,15 +132,35 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Gitflow",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
         {
-          "name": "PHP",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
+          "name": "Laravel",
           "type": "technology"
         },
         {
@@ -148,13 +168,37 @@
           "type": "technology"
         },
         {
-          "name": "Vue",
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "ASP",
+          "type": "technology"
+        },
+        {
+          "name": "JSP",
+          "type": "technology"
+        },
+        {
+          "name": "SAP",
+          "type": "technology"
+        },
+        {
+          "name": "Weblogic",
           "type": "technology"
         }
       ],
@@ -163,6 +207,6 @@
         "Frontend Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   }
 }
