@@ -37,8 +37,12 @@
     ],
     "interestingFacts": [
       {
-        "topic": "My favourite learning channels are:",
+        "topic": "Mis fuentes de aprendizaje de programación son:",
         "fact": "- https://www.twitch.tv/midudev\n- https://www.youtube.com/c/MouredevApps\n- https://www.youtube.com/c/CodelyTv"
+      },
+      {
+        "topic": "Me encantan los proyectos soldiarios",
+        "fact": "He colaborado en varios proyectos solidarios"
       }
     ]
   },
