@@ -9,7 +9,7 @@
       "name": "Adrián",
       "surnames": "Pisabarro García",
       "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer. JavaScript Lover ❤️ in my free-time, but at work I'm a Back-end developer 😉.",
-      "description": "",
+      "description": "Soy un amante del trabajo en equipo, ayudando a todos los integrantes y aportando valor, transmito calma en los momentos más difíciles e innovación por los equipos que he pasado durante estos 3 años. El desarrollo para mí es amor al arte, trato de estar al día de las últimas novedades formándome constantemente para dar el 120% en mi puesto de trabajo.",
       "avatar": {
         "alt": "IMG_1249 2.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/db2d3f44-506f-4577-b8db-6082d9e7030d_img_1249-2.jpg"
@@ -46,15 +46,15 @@
     "languages": [
       {
         "name": "Basque",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
