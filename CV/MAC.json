@@ -8,7 +8,7 @@
     "profile": {
       "name": "Adrián",
       "surnames": "Pisabarro García",
-      "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer, searching to be a Font-Developer 🥹 on the future. JavaScript Lover ❤️ and Student 👨🏻‍🎓.",
+      "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer. JavaScript Lover ❤️ in my free-time, but at work I'm a Back-end developer 😉.",
       "description": "",
       "avatar": {
         "alt": "IMG_1249 2.jpg",
@@ -22,10 +22,6 @@
       }
     },
     "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://adrianpisabarro.com/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/adrianpisabarrogarcia"
