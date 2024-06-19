@@ -246,6 +246,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AngularJS",
           "type": "technology"
         }
@@ -264,6 +270,12 @@
       },
       {
         "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
           "type": "technology"
         }
@@ -271,6 +283,24 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
           "type": "technology"
         }
       },
@@ -289,6 +319,18 @@
       {
         "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
           "type": "technology"
         }
       }
@@ -580,11 +622,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "HTML",
-        "type": "technology"
-      },
-      {
-        "name": "Java",
+        "name": "Angular2+",
         "type": "technology"
       },
       {
@@ -592,11 +630,15 @@
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
         "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
         "type": "technology"
       }
     ],
