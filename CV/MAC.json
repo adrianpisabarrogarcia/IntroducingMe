@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,30 +11,16 @@
       "title": "A Full-Stack Java ☕️, PHP 🐘 and JavaScript 💛 developer. JavaScript Lover ❤️ in my free-time, but at work I'm a Back-end developer 😉.",
       "description": "Soy un amante del trabajo en equipo, ayudando a todos los integrantes y aportando valor, transmito calma en los momentos más difíciles e innovación por los equipos que he pasado durante estos 3 años. El desarrollo para mí es amor al arte, trato de estar al día de las últimas novedades formándome constantemente para dar el 120% en mi puesto de trabajo.",
       "avatar": {
-        "alt": "IMG_1249 2.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/db2d3f44-506f-4577-b8db-6082d9e7030d_img_1249-2.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/db2d3f44-506f-4577-b8db-6082d9e7030d_img_1249-2.jpg",
+        "alt": "IMG_1249 2.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJW489fTfCTw0RyUmrkYy3bpw)",
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Vitoria-Gasteiz",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Vitoria-Gasteiz"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/adrianpisabarrogarcia"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/adriantxupisi"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/adrian-pisabarro/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Mis fuentes de aprendizaje de programación son:",
@@ -48,57 +34,219 @@
         "topic": "Ayudo en GDG Vitoria",
         "fact": "Soy uno de los que ayudan a organizar GDG Vitoria"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/adrian-pisabarro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/adrianpisabarrogarcia"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/adriantxupisi"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Teknei",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/27/14a86b45-98ec-4b5d-bce2-92867ae499be_1671990383078.jpeg",
+            "alt": "1671990383078.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "SENIOR SOFTWARE DEVELOPER",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Analizar tecnológicamente requisitos de diferentes proyectos del sector público.\nFormar parte de un equipo de innovación del sector público del País Vasco.\nProgramación de servicios y aplicaciones que miles de ciudadanos utilizan con código limpio.\nSubir de nivel, apoyar y gestionar equipos de desarrolladores juniors, pair programming y code review con ellos.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ibaiscanbit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/27/4d515efd-9526-46b1-9f2c-e009f4305291_sistemas-e-infraestr.jpg",
+            "alt": "sistemas-e-infraestructuras.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "JUNIOR SOFTWARE DEVELOPER",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Comprender los requisitos de los proyectos y plasmarlos en el código.\nProgramar y resolver mantenimiento de aplicaciones web a clientes.\nContacto directo con clientes en reuniones y sprints, trabajo con instituciones públicas y privadas de gran prestigio como Banco de España, UNED, UNIR, Gobierno de Navarra, etc.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escolapios Emaús",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/27/5e6396c0-f885-4925-9ec3-893fcc361041_download.jpeg",
+            "alt": "download.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "FREELANCE SOFTWARE DEVELOPER",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Analizar requisitos previos y técnicos de diferentes proyectos.\nProgramación de nuevas aplicaciones web y resolución de problemas.\nContacto semanal con diferentes equipos de la institución para dar soporte a las necesidades requeridas en los proyectos.\nSe realizan mantenimientos muy puntuales actualmente."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "SuperBag",
+          "description": "Aplicación de introducción al desarrollo Andorid, para hacer la lista de la compra con base de datos firebase.",
+          "URL": "https://github.com/adrianpisabarrogarcia/SuperBag"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-01-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "English",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "fullName": "Euskera",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
           "type": "technology"
         }
       },
@@ -110,8 +258,213 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "DESARROLLO DE APLICACIONES MULTIPLATAFORMA",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Egibide"
+        },
+        "finishDate": "2023-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Google Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Hibernate",
+            "type": "technology"
+          },
+          {
+            "name": "JPA",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "Swift",
+            "type": "technology"
+          },
+          {
+            "name": "SwiftUI",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "DESARROLLO DE APLICACIONES WEB",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "Egibide"
+        },
+        "finishDate": "2021-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Vagrant",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "INGENIERÍA INFORMÁTICA WEB",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "UPV/EHU",
+          "description": "Sin terminar, 2 años. En un futuro y con paciencia espero terminar la carrera."
+        },
+        "finishDate": "2019-07-01",
+        "linkedCompetences": [
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
         }
       }
     ]
@@ -120,9 +473,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/adrian-pisabarro/"
+          "URL": "https://www.linkedin.com/in/adrian-pisabarro/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/adrianpisabarrogarcia",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/adriantxupisi",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "adrian.pisabarro.garcia@gmail.com"
       ]
     },
     "preferences": {
@@ -156,7 +520,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -213,18 +577,18 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
         "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
         "type": "technology"
       },
       {
@@ -232,8 +596,15 @@
         "type": "technology"
       },
       {
-        "name": "JavaScript",
+        "name": "SQL",
         "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería uno en el que se trabajase en equipo y nos ayudásemos entre todos, con diferentes técnicas sería genial: pair programming y code review para seguir creciendo como desarrollador. \nMe gustaría que cada x tiempo renovasen la tecnología o se plantearan nuevos retos técnicos dependiendo de lo que se demande en los proyectos. \nBuenos compañeros/as de trabajo y saber que puedo contar con ellos/as.\nTrabajar en el backend suelo trabajar con más soltura y facilidad Spring Boot, Laravel, Django..., aunque también me pica la curiosidad el frontend, aunque debería de ponerme más al día con biblitecas de JS.\n",
+    "goodPractices": "Sigo cada semana Mouredev, Midudev y Codely para aprender más.Hago diferentes cursos en Udemy de aquellas tecnologías que me cuesta controlar más. En los últimos tiempos, tiro de proyectos que hago en Github: https://github.com/adrianpisabarrogarcia ChatGPT y Github Copilot me ayudan a iniciarme y de ahí voy descubriendo otras tecnologías, buenas prácticas, testing, etc. La utilización de linters también ayuda mucho a tener un código más limpio.",
+    "projects": [
+      {
+        "name": "SuperBag"
       }
     ]
   }
